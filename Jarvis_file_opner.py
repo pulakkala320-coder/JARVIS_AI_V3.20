@@ -29,9 +29,9 @@ async def focus_window(title_keyword: str) -> bool:
             if window.isMinimized:
                 window.restore()
             window.activate()
-            logger.info(f"🪟 window focus में है: {window.title}")
+            logger.info(f" window focus में है: {window.title}")
             return True
-    logger.warning("⚠ Focus करने के लिए window नहीं मिली।")
+    logger.warning(" Focus करने के लिए window नहीं मिली।")
     return False
 
 async def index_files(base_dirs):
@@ -44,7 +44,7 @@ async def index_files(base_dirs):
                     "path": os.path.join(root, f),
                     "type": "file"
                 })
-    logger.info(f"✅ {base_dirs} से कुल {len(file_index)} files को index किया गया।")
+    logger.info(f" {base_dirs} से कुल {len(file_index)} files को index किया गया।")
     return file_index
 
 async def search_file(query, index):
@@ -54,7 +54,7 @@ async def search_file(query, index):
         return None
 
     best_match, score = process.extractOne(query, choices)
-    logger.info(f"🔍 Matched '{query}' to '{best_match}' (Score: {score})")
+    logger.info(f" Matched '{query}' to '{best_match}' (Score: {score})")
     if score > 70:
         for item in index:
             if item["name"] == best_match:
@@ -63,24 +63,24 @@ async def search_file(query, index):
 
 async def open_file(item):
     try:
-        logger.info(f"📂 File खोल रहे हैं: {item['path']}")
+        logger.info(f" File खोल रहे हैं: {item['path']}")
         if os.name == 'nt':
             os.startfile(item["path"])
         else:
             subprocess.call(['open' if sys.platform == 'darwin' else 'xdg-open', item["path"]])
-        await focus_window(item["name"])  # 👈 Focus window after opening
-        return f"✅ File open हो गई।: {item['name']}"
+        await focus_window(item["name"])  # Focus window after opening
+        return f"File open हो गई।: {item['name']}"
     except Exception as e:
-        logger.error(f"❌ File open करने में error आया।: {e}")
-        return f"❌ File open करने में विफल रहा। {e}"
+        logger.error(f" File open करने में error आया।: {e}")
+        return f" File open करने में विफल रहा। {e}"
 
 async def handle_command(command, index):
     item = await search_file(command, index)
     if item:
         return await open_file(item)
     else:
-        logger.warning("❌ File नहीं मिली।")
-        return "❌ File नहीं मिली।"
+        logger.warning(" File नहीं मिली।")
+        return " File नहीं मिली।"
 
 @function_tool()
 async def Play_file(name: str) -> str:
