@@ -1,0 +1,135 @@
+2025-09-16 21:21:43.429062: Controller auto-activated.
+2025-09-16 21:21:43.729725: Typed text: Pulak
+2025-09-16 21:21:45.742546: Controller auto-deactivated.
+2025-09-16 21:22:40.597776: Controller auto-activated.
+2025-09-16 21:22:40.902948: Pressed hotkey: win + down
+2025-09-16 21:22:42.913255: Controller auto-deactivated.
+2025-09-16 21:31:42.221948: Controller auto-activated.
+2025-09-16 21:31:42.536679: Pressed hotkey: win + down
+2025-09-16 21:31:44.546116: Controller auto-deactivated.
+2025-09-16 21:32:08.625388: Controller auto-activated.
+2025-09-16 21:32:08.932730: Pressed hotkey: win + down
+2025-09-16 21:32:10.940645: Controller auto-deactivated.
+2025-09-16 21:32:31.702640: Controller auto-activated.
+2025-09-16 21:32:32.009680: Pressed hotkey: win + up
+2025-09-16 21:32:34.012543: Controller auto-deactivated.
+2025-09-16 21:33:37.566544: Controller auto-activated.
+2025-09-16 21:33:43.236492: Controller auto-activated.
+2025-09-16 21:33:43.438402: Pressed key: backspace
+2025-09-16 21:33:45.451653: Controller auto-deactivated.
+2025-09-16 21:49:22.107550: Controller auto-activated.
+2025-09-16 21:49:22.167080: Typed text: R
+2025-09-16 21:49:24.174597: Controller auto-deactivated.
+2025-09-16 21:51:26.076929: Controller auto-activated.
+2025-09-16 21:51:26.384981: Pressed hotkey: win + m
+2025-09-16 21:51:28.397121: Controller auto-deactivated.
+2025-09-17 08:07:25.315879: Controller auto-activated.
+2025-09-17 08:07:27.231404: Typed text: This is Jarvis, at your service.
+2025-09-17 08:07:29.241067: Controller auto-deactivated.
+2025-09-17 08:07:49.877638: Controller auto-activated.
+2025-09-17 08:07:50.193831: Pressed hotkey: ctrl + a
+2025-09-17 08:07:52.195460: Controller auto-deactivated.
+2025-09-17 08:07:52.735478: Controller auto-activated.
+2025-09-17 08:07:52.944361: Pressed key: delete
+2025-09-17 08:07:54.945493: Controller auto-deactivated.
+2025-09-17 08:08:04.100602: Controller auto-activated.
+2025-09-17 08:08:06.390957: Controller auto-activated.
+2025-09-17 08:08:11.059600: Controller auto-activated.
+2025-09-17 08:08:15.416831: Typed text: I will not be able to go to college today because I am not feeling well.
+2025-09-17 08:08:17.417783: Controller auto-deactivated.
+2025-09-17 08:08:26.930629: Controller auto-activated.
+2025-09-17 08:08:37.675326: Typed text: Dear Sir/Madam, I am writing to inform you that I will be unable to attend college today due to illness. I apologize for any inconvenience this may cause. Sincerely, [Your Name]
+2025-09-17 08:08:39.686964: Controller auto-deactivated.
+2025-09-17 08:09:12.719178: Controller auto-activated.
+2025-09-17 08:09:17.489001: Controller auto-activated.
+2025-09-17 08:09:17.790625: Pressed hotkey: ctrl + a
+2025-09-17 08:09:19.806667: Controller auto-deactivated.
+2025-09-17 08:10:02.059399: Typed text: To the esteemed faculty and administration, I hope this message finds you well. I am writing with utmost sincerity to inform you that I will be unable to attend the college sessions scheduled for today, September 17th. This unfortunate absence is necessitated by a sudden and unexpected bout of illness that has rendered me temporarily unfit for academic activities. I apologize most humbly for any inconvenience or disruption my absence may cause to the day's schedule. I shall promptly reach out to my classmates and professors to secure any missed assignments or important information, and I assure you that I shall make every possible effort to catch up on the material at the earliest opportunity. Thank you for your kind attention to this matter. I trust that my situation merits your kind understanding.
+2025-09-17 08:10:04.074517: Controller auto-deactivated.
+2025-09-17 08:18:07.448093: Controller auto-activated.
+2025-09-17 08:18:39.473654: Controller auto-activated.
+2025-09-17 08:18:40.444115: Typed text: I play Free Fire
+2025-09-17 08:18:42.450525: Controller auto-deactivated.
+2025-09-17 11:54:46.747564: Controller auto-activated.
+2025-09-17 11:54:46.956074: Mouse clicked: left
+2025-09-17 11:54:48.967889: Controller auto-deactivated.
+2025-09-17 16:51:24.956295: Controller auto-activated.
+2025-09-17 16:51:25.260868: Volume control: mute
+2025-09-17 16:51:27.272336: Controller auto-deactivated.
+2025-09-17 20:55:13.836919: Controller auto-activated.
+2025-09-17 20:55:40.699743: Controller auto-activated.
+2025-09-17 20:55:40.903766: Pressed key: backspace
+2025-09-17 20:55:42.904684: Controller auto-deactivated.
+2025-09-17 20:57:29.700979: Controller auto-activated.
+2025-09-17 20:57:30.041653: Pressed hotkey: ctrl + a
+2025-09-17 20:57:32.052547: Controller auto-deactivated.
+2025-09-18 08:41:34.828049: Controller auto-activated.
+2025-09-18 08:41:36.988953: Controller auto-activated.
+2025-09-18 08:41:42.197326: Controller auto-activated.
+2025-09-18 08:41:42.412892: Pressed key: enter
+2025-09-18 08:41:44.426441: Controller auto-deactivated.
+2025-09-18 08:42:06.507045: Controller auto-activated.
+2025-09-18 08:42:27.072350: Controller auto-activated.
+2025-09-18 08:42:27.342198: Pressed key: enter
+2025-09-18 08:42:28.529797: Controller auto-activated.
+2025-09-18 08:42:28.745096: Pressed key: enter
+2025-09-18 08:42:29.349951: Controller auto-deactivated.
+2025-09-18 08:42:30.756438: Controller auto-deactivated.
+2025-09-18 10:00:25.703539: Controller auto-activated.
+2025-09-18 10:00:27.486349: Controller auto-activated.
+2025-09-18 10:00:27.499941: Typed text: Swami Vivekananda University
+2025-09-18 10:00:29.500925: Controller auto-deactivated.
+2025-09-18 10:00:50.045945: Typed text: To,
+The Mentor,
+Swami Vivekananda University
+
+Subject: Application for leave for 5 days
+
+Respected Sir/Madam,
+
+I am writing to request a leave of absence from college for 5 days. I will be going home and will not be able to attend classes from [Start Date] to [End Date].
+
+I would be grateful if you could grant me leave for the aforementioned period.
+
+Thank you.
+
+Sincerely,
+[Your Name]
+2025-09-18 10:00:52.054078: Controller auto-deactivated.
+2025-09-18 10:01:10.358048: Controller auto-activated.
+2025-09-18 10:01:44.943701: Controller auto-activated.
+2025-09-18 10:10:07.079544: Controller auto-activated.
+2025-09-18 10:10:07.188669: Typed text: 97
+2025-09-18 10:10:09.189945: Controller auto-deactivated.
+2025-09-18 10:14:22.445977: Controller auto-activated.
+2025-09-18 10:14:42.130860: Typed text: Respected Sir,
+
+I am writing to inform you that I will be unable to attend university for the next two days, i.e. [Date] and [Date]. I am taking these days off because [Reason].
+
+I apologize for any inconvenience this may cause. I will be sure to catch up on any missed work.
+
+Thank you for your understanding.
+
+Sincerely,
+[Your Name]
+2025-09-18 10:14:44.143406: Controller auto-deactivated.
+2025-09-18 10:22:54.700268: Controller auto-activated.
+2025-09-18 10:22:54.759861: Typed text:  
+2025-09-18 10:22:56.768265: Controller auto-deactivated.
+2025-09-18 10:23:02.014724: Controller auto-activated.
+2025-09-18 10:23:02.286894: Typed text: 9734
+2025-09-18 10:23:04.287422: Controller auto-deactivated.
+2025-09-18 10:23:11.053824: Controller auto-activated.
+2025-09-18 10:23:11.235748: Typed text: 000
+2025-09-18 10:23:13.237009: Controller auto-deactivated.
+2025-09-19 22:32:14.474845: Controller auto-activated.
+2025-09-19 22:32:14.779412: Pressed hotkey: win + down
+2025-09-19 22:32:16.792964: Controller auto-deactivated.
+2025-09-20 22:06:07.770756: Controller auto-activated.
+2025-09-20 22:06:09.777227: Controller auto-deactivated.
+2025-09-20 22:06:11.824638: Controller auto-activated.
+2025-09-20 22:06:12.132028: Pressed hotkey: win + up
+2025-09-20 22:06:14.139234: Controller auto-deactivated.
+2025-09-20 22:06:28.975002: Controller auto-activated.
+2025-09-20 22:06:29.285308: Pressed hotkey: win + down
+2025-09-20 22:06:31.298578: Controller auto-deactivated.

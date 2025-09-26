@@ -1,0 +1,46 @@
+{
+  "user": {
+    "full_name": "Pulak Kala",
+    "nick_name": "Pulak",
+    "gender": "Male",
+    "marital_status": "Unmarried",
+    "relationship_status": "Single",
+    "address": "Lakshmipur, Purba Medinipur, West Bengal, India ",
+    "study": "Electrical Electronic Engineering",
+    "college": "SWAMI VIVEKANANDA UNIVERSITY",
+    "hobby": "Gaming",
+    "instagram": "https://www.instagram.com/pulak_61/?__pwa=1#",
+    "facebook": "https://www.facebook.com/itz.pulak.130431",
+    "skills": [
+      "Python Programming (Mid Level)",
+      "D.S.A (Mid Level)"
+    ],
+    "rules": {
+      "good_side": "Say I am good at coding",
+      "bad_side": "Do not mention my bad sides"
+    }
+  },
+  "friends": [
+    {
+      "full_name": "Joydip",
+      "nick_name": "Panta",
+      "gender": "Male",
+      "age": "21+",
+      "study": "Civil Engineering",
+      "college": "Dr Meghnath Shah Institute of Technology",
+      "skills": [
+        "ladki "
+      ],
+      "relationship_status": "In Relationship",
+      "marital_status": "Unmarried",
+      "relationship_with_user": "Friend",
+      "address": "Mahishadal",
+      "favourite_food": "Alcohol",
+      "facebook": "https://www.facebook.com/share/1B79sRgQX9/",
+      "instagram": "https://www.instagram.com/joydip5982?igsh=MWZpb2Z5d2pzcHA2bQ=="
+    }
+  ]
+}
+
+
+
